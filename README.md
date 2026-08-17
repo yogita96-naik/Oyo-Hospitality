@@ -13,9 +13,9 @@
     Power Query      - Data cleaning, preparation and reshaping the data .      
     Data  Modelling  - Relation established between fact tables and dimension table
     DAX (Data Analytical Expression)- Used to create measure, columns, time intelligence function for week over week comparison.
-    File format      - pbix for development and png for previews
+    File format      - pbit for development and png for previews
 
-4. Data source
+5. Data source
    Codebasics Data challenge. 5 underlying tables about 13490 rows 
 
 5.Highlights

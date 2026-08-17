@@ -26,6 +26,7 @@
               -No differential pricing on their on channel/website
 
 6.Screenshot
+https://github.com/yogita96-naik/Oyo-Hospitality/blob/main/Oyo%20dashboard.PNG
               
             
   
